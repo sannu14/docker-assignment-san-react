@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Docker
 
-#### no need to run npm build
+Docker wouldn't require you to run `npm build`
 
 ### Docker build
 `docker build --no-cache -t dockerized-react-app .`
